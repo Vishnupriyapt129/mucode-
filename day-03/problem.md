@@ -27,13 +27,13 @@ You must perform this operation **in-place** without using extra space for anoth
 ### 🧪 Examples
 
 
-##Input:
+## Input:
 
 5
 0 1 0 3 12
 
 ---
-##Output:
+## Output:
 
 1 3 12 0 0
 
